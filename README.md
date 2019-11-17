@@ -1,2 +1,2 @@
 # Pyber
-Unit 5 power of plots -- Matplotlib
+This is an analysis and visualization of data from a fictional ride sharing company called Pyber.  The goal is to get a better idea of where most rides happen, and where the greatest fares are charge, in cities,  suburbs, or rural area. The analysis is done using Pandas and the visualizations are done using MatPlotLib.  The visualiztions include a few clean pie charts displaying the proportion of rides, fares, and drivers per location type. There is also a scattterplot showing the average fare in a gven city along with that cities type(rural, suburban, urban).
